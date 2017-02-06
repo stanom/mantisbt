@@ -1,0 +1,2 @@
+# mantisbt
+Mantis Bugteracker - dockerized
